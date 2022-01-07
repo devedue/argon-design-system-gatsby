@@ -1,5 +1,6 @@
 # Argon Design System Gatsby
-## Fork of Argon design system react to render in gatsby
+
+Fork of [argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react) to build with [Gatsby](https://github.com/gatsbyjs/gatsby)
 
 
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
@@ -83,94 +84,6 @@ View [example pages here](https://demos.creative-tim.com/argon-design-system-rea
 
 ## Documentation
 The documentation for the Argon Design System React is hosted at our [website](https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview).
-
-
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-Argon Design System React
-.
-├── CHANGELOG.md
-├── ISSUE_TEMPLATE.md
-├── LICENSE
-├── README.md
-├── jsconfig.json
-├── package.json
-├── Documentation
-│   └── documentation.html
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── assets
-    │   ├── css
-    │   │   ├── argon-design-system-react.css
-    │   │   ├── argon-design-system-react.css.map
-    │   │   └── argon-design-system-react.min.css
-    │   ├── img
-    │   │   ├── brand
-    │   │   ├── icons
-    │   │   │   └── common
-    │   │   ├── ill
-    │   │   └── theme
-    │   ├── scss
-    │   │   ├── argon-design-system-react.scss
-    │   │   ├── bootstrap
-    │   │   │   ├── mixins
-    │   │   │   └── utilities
-    │   │   ├── custom
-    │   │   │   ├── mixins
-    │   │   │   ├── utilities
-    │   │   │   └── vendor
-    │   │   └── react
-    │   │       ├── custom
-    │   │       │   └── vendor
-    │   │       └── react-differences.scss
-    │   └── vendor
-    │       ├── font-awesome
-    │       │   ├── css
-    │       │   └── fonts
-    │       └── nucleo
-    │           ├── css
-    │           └── fonts
-    ├── components
-    │   ├── Footers
-    │   │   ├── CardsFooter.js
-    │   │   └── SimpleFooter.js
-    │   └── Navbars
-    │       └── DemoNavbar.js
-    ├── index.js
-    └── views
-        ├── Index.js
-        ├── IndexSections
-        │   ├── Alerts.js
-        │   ├── Buttons.js
-        │   ├── Carousel.js
-        │   ├── CustomControls.js
-        │   ├── Datepicker.js
-        │   ├── Download.js
-        │   ├── Hero.js
-        │   ├── Icons.js
-        │   ├── Inputs.js
-        │   ├── Labels.js
-        │   ├── Login.js
-        │   ├── Menus.js
-        │   ├── Modals.js
-        │   ├── Navbars.js
-        │   ├── Pagination.js
-        │   ├── Pills.js
-        │   ├── Progress.js
-        │   ├── Tabs.js
-        │   ├── TooltipPopover.js
-        │   └── Typography.js
-        └── examples
-            ├── Landing.js
-            ├── Login.js
-            ├── Profile.js
-            └── Register.js
-```
 
 
 ## Browser Support
